@@ -1,0 +1,11 @@
+area correspondiente al módulo 1
+
+Realizar un investigativo que incluya dos páginas acerca de las características Java, su sintaxis, eficiencia, manejo de concurrencia, etc. Deben incluír algunos casos de uso de empresas que lo utilizan para el desarrollo de software.
+
+Es una investigación para aprender, por ende, todo lo que escriban en ella, debe ser análisis.
+
+Conceptos copiados y pegados de Internet se tomará como tarea no valida.
+
+Vencimiento 16 de Octubre de 2019
+
+ 

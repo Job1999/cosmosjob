@@ -1,0 +1,13 @@
+Realizar los ejercicios propuestos al final del documento Java - Sintaxis y Primeros pasos de la LECCION 1.
+
+*Leer la documentación oficial proporcionada en los recursos en caso de ser necesario y hacer todas las preguntas necesarias.
+
+Deben enviar aqui un archivo con la solución de cada uno de ellos, deberán adjuntar el código del proyecto de Netbeans con la solución de cada uno de los ejercicios o un solo proyecto con la solución para cada inciso (Recomendado). (No enviar archivos PDF ni WORD con el código)
+
+Código copiado de otro compañero será calificado como 0 (Cero) para ambos.
+
+Vencimiento 16 de Octubre de 2019
+
+ 
+
+Éxitos.
